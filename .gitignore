@@ -6,5 +6,7 @@ venv
 .env.*
 .DS_Store
 *.lock
-data
+sources/
 bin
+bronze/telemetry
+bronze/circuits
